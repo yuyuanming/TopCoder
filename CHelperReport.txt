@@ -1,0 +1,2 @@
+29 src/curSRM/TeamContest.tctask
+0
