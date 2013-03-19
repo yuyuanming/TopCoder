@@ -31,6 +31,19 @@
         <jarDirectory url="file://$USER_HOME$/Dropbox/Archive/Java/junit" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Dropbox/Archive/Java/spring framework core" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Dropbox/Archive/Java/spring framework core" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Dropbox/Archive/Java/spring framework core" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Dropbox/Archive/Java/spring framework core" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
 

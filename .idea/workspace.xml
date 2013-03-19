@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6073196c-e864-4b4e-8171-c8b36aa7f2c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/listDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/priorityQueueDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/sortingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/SetComp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/hashMapDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/setDemo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TopCoder.iml" afterPath="$PROJECT_DIR$/TopCoder.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TopCoder.iws" />
@@ -13,10 +14,12 @@
     <file path="/fragment.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363690547830" ignored="false" />
     <file path="/TeamContest.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363608272717" ignored="false" />
     <file path="/TaskClass.template" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363606611385" ignored="false" />
-    <file path="/Dummy.txt" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363690687943" ignored="false" />
+    <file path="/Dummy.txt" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363698587263" ignored="false" />
     <file path="/priorityQueueDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363688314070" ignored="false" />
     <file path="/sortingDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363689707955" ignored="false" />
-    <file path="/listDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363690128701" ignored="false" />
+    <file path="/listDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363699125150" ignored="false" />
+    <file path="/hashMapDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363699515030" ignored="false" />
+    <file path="/setDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363702676771" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,36 +83,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="priorityQueueDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demo/priorityQueueDemo.java">
+      <file leaf-file-name="SetComp.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/demo/SetComp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="25" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+            <state line="40" column="21" selection-start="1421" selection-end="1421" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#456#465#0" expanded="true" />
+                <element signature="e#391#399#0" expanded="true" />
+                <element signature="e#464#472#0" expanded="true" />
+                <element signature="e#523#531#0" expanded="true" />
+                <element signature="e#1303#1312#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/demo/listDemo.java">
+      <file leaf-file-name="Set.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/Set.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+            <state line="244" column="21" selection-start="10219" selection-end="10219" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashSet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="216" column="20" selection-start="8015" selection-end="8015" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#301#310#0" expanded="true" />
+                <element signature="docComment;method#HashSet#0;class#HashSet#0" expanded="false" />
+                <element signature="method#HashSet#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#HashSet#1;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#HashSet#2;class#HashSet#0" expanded="false" />
+                <element signature="method#HashSet#2;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#HashSet#3;class#HashSet#0" expanded="false" />
+                <element signature="method#HashSet#3;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#HashSet#4;class#HashSet#0" expanded="false" />
+                <element signature="method#HashSet#4;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#iterator#0;class#HashSet#0" expanded="false" />
+                <element signature="method#iterator#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#size#0;class#HashSet#0" expanded="false" />
+                <element signature="method#size#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#isEmpty#0;class#HashSet#0" expanded="false" />
+                <element signature="method#isEmpty#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#contains#0;class#HashSet#0" expanded="false" />
+                <element signature="method#contains#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#remove#0;class#HashSet#0" expanded="false" />
+                <element signature="method#remove#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#clear#0;class#HashSet#0" expanded="false" />
+                <element signature="method#clear#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#clone#0;class#HashSet#0" expanded="false" />
+                <element signature="method#clone#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#writeObject#0;class#HashSet#0" expanded="false" />
+                <element signature="method#writeObject#0;class#HashSet#0" expanded="false" />
+                <element signature="docComment;method#readObject#0;class#HashSet#0" expanded="false" />
+                <element signature="method#readObject#0;class#HashSet#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sortingDemo.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/demo/sortingDemo.java">
+      <file leaf-file-name="HashMap.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="62" selection-start="656" selection-end="656" vertical-scroll-proportion="0.74113476">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="564" column="14" selection-start="20610" selection-end="20610" vertical-scroll-proportion="0.49594814">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,14 +186,17 @@
         <option value="$PROJECT_DIR$/src/demo/priorityQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/demo/listDemo.java" />
         <option value="$PROJECT_DIR$/src/demo/sortingDemo.java" />
+        <option value="$PROJECT_DIR$/src/demo/hashMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/demo/setDemo.java" />
+        <option value="$PROJECT_DIR$/src/demo/SetComp.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1696" />
-    <option name="height" value="1036" />
+    <option name="x" value="58" />
+    <option name="y" value="22" />
+    <option name="width" value="1222" />
+    <option name="height" value="778" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -256,65 +298,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
-        <subPane subId="Tests" />
         <subPane subId="Production">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -323,6 +308,7 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
+        <subPane subId="Tests" />
         <subPane subId="Project Files">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -372,18 +358,70 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="232" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="232" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="232" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="236" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/Archive/Java/chelper/chelper.jar!/" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="233" />
@@ -407,10 +445,74 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SetComp">
+    <configuration default="false" name="sortingDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.sortingDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TopCoder" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hashMapDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.hashMapDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TopCoder" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="setDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.setDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TopCoder" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SetComp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="demo.SetComp" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="TopCoder" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -427,19 +529,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -467,6 +556,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -509,9 +611,21 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="1">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TopCoder Task.TeamContest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.sortingDemo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.hashMapDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.setDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SetComp" />
     </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.SetComp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.setDemo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.hashMapDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.sortingDemo" />
+      </list>
+    </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -551,28 +665,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
+    <frame x="58" y="22" width="1222" height="778" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40159273" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4012158" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32575756" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24051407" sideWeight="0.32764506" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20440637" sideWeight="0.67121726" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20408164" sideWeight="0.67173254" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674772" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="129" y="140" width="1496" height="836" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -639,21 +753,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestCaseClass.template">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="4" selection-start="292" selection-end="292" vertical-scroll-proportion="0.2672919" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TopCoder.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archive/2013.03/2013.03.18 - TopCoder SRM #573/TeamContest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -671,118 +770,200 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/on2013_03/on2013_03_18_TopCoder_SRM__573/TeamContest/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/PriorityQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/demo/sortingDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="147" column="49" selection-start="5327" selection-end="5327" vertical-scroll-proportion="0.6436108">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/Calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="0" selection-start="5935" selection-end="5935" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="11" selection-start="2908" selection-end="2908" vertical-scroll-proportion="0.33294255">
-          <folding>
-            <element signature="docComment;class#Random#0" expanded="false" />
-            <element signature="docComment;field#serialVersionUID#0;class#Random#0" expanded="false" />
-            <element signature="docComment;field#seed#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#Random#0;class#Random#0" expanded="false" />
-            <element signature="method#seedUniquifier#0;class#Random#0" expanded="false" />
-            <element signature="e#3029#3086#0" expanded="false" />
-            <element signature="docComment;method#Random#1;class#Random#0" expanded="false" />
-            <element signature="method#Random#1;class#Random#0" expanded="false" />
-            <element signature="method#initialScramble#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#setSeed#0;class#Random#0" expanded="false" />
-            <element signature="method#setSeed#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#next#0;class#Random#0" expanded="false" />
-            <element signature="method#next#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextBytes#0;class#Random#0" expanded="false" />
-            <element signature="method#nextBytes#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextInt#0;class#Random#0" expanded="false" />
-            <element signature="method#nextInt#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextInt#1;class#Random#0" expanded="false" />
-            <element signature="method#nextInt#1;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextLong#0;class#Random#0" expanded="false" />
-            <element signature="method#nextLong#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextBoolean#0;class#Random#0" expanded="false" />
-            <element signature="method#nextBoolean#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextFloat#0;class#Random#0" expanded="false" />
-            <element signature="method#nextFloat#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextDouble#0;class#Random#0" expanded="false" />
-            <element signature="method#nextDouble#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#nextGaussian#0;class#Random#0" expanded="false" />
-            <element signature="method#nextGaussian#0;class#Random#0" expanded="false" />
-            <element signature="docComment;field#serialPersistentFields#0;class#Random#0" expanded="false" />
-            <element signature="docComment;method#readObject#0;class#Random#0" expanded="false" />
-            <element signature="method#readObject#0;class#Random#0" expanded="false" />
-            <element signature="e#21691#21733#0" expanded="false" />
-            <element signature="docComment;method#writeObject#0;class#Random#0" expanded="false" />
-            <element signature="method#writeObject#0;class#Random#0" expanded="false" />
-            <element signature="initializer##0;class#Random#0" expanded="false" />
-            <element signature="method#resetSeed#0;class#Random#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="672" column="45" selection-start="30042" selection-end="30042" vertical-scroll-proportion="0.9320047">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3561" column="36" selection-start="138502" selection-end="138502" vertical-scroll-proportion="0.33294255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="625" column="31" selection-start="23290" selection-end="23290" vertical-scroll-proportion="0.06565064">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/priorityQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="25" selection-start="602" selection-end="602" vertical-scroll-proportion="0.0">
+        <state line="32" column="0" selection-start="906" selection-end="906" vertical-scroll-proportion="0.6031746">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#456#465#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/listDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0">
+        <state line="12" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.34285715">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/priorityQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="25" selection-start="602" selection-end="602" vertical-scroll-proportion="0.4376013">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/hashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="297" selection-end="297" vertical-scroll-proportion="0.37142858">
           <folding>
-            <element signature="e#301#310#0" expanded="true" />
+            <element signature="e#319#336#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/sortingDemo.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="62" selection-start="656" selection-end="656" vertical-scroll-proportion="0.74113476">
+        <state line="340" column="0" selection-start="13242" selection-end="13242" vertical-scroll-proportion="0.9714286">
+          <folding>
+            <element signature="docComment;field#m#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#TreeSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#TreeSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#TreeSet#1;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#TreeSet#2;class#TreeSet#0" expanded="false" />
+            <element signature="method#TreeSet#2;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#TreeSet#3;class#TreeSet#0" expanded="false" />
+            <element signature="method#TreeSet#3;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#TreeSet#4;class#TreeSet#0" expanded="false" />
+            <element signature="method#TreeSet#4;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#iterator#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#descendingIterator#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#descendingIterator#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#descendingSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#descendingSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#size#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#contains#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#add#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#add#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#remove#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#clear#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#addAll#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#addAll#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#subSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#subSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#headSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#headSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#tailSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#tailSet#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#subSet#1;class#TreeSet#0" expanded="false" />
+            <element signature="method#subSet#1;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#headSet#1;class#TreeSet#0" expanded="false" />
+            <element signature="method#headSet#1;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#tailSet#1;class#TreeSet#0" expanded="false" />
+            <element signature="method#tailSet#1;class#TreeSet#0" expanded="false" />
+            <element signature="method#comparator#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#first#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#first#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#last#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#last#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#lower#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#lower#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#floor#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#floor#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#ceiling#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#ceiling#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#higher#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#higher#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#pollFirst#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#pollFirst#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#pollLast#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#pollLast#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#clone#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#writeObject#0;class#TreeSet#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#TreeSet#0" expanded="false" />
+            <element signature="method#readObject#0;class#TreeSet#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/setDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="36" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#302#311#0" expanded="true" />
+            <element signature="e#361#369#0" expanded="true" />
+            <element signature="e#413#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="13" selection-start="2463" selection-end="2463" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="15" selection-start="3671" selection-end="3671" vertical-scroll-proportion="0.33225283">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/SetComp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="21" selection-start="1421" selection-end="1421" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#391#399#0" expanded="true" />
+            <element signature="e#464#472#0" expanded="true" />
+            <element signature="e#523#531#0" expanded="true" />
+            <element signature="e#1303#1312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="244" column="21" selection-start="10219" selection-end="10219" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="20" selection-start="8015" selection-end="8015" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="docComment;method#HashSet#0;class#HashSet#0" expanded="false" />
+            <element signature="method#HashSet#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#HashSet#1;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#HashSet#2;class#HashSet#0" expanded="false" />
+            <element signature="method#HashSet#2;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#HashSet#3;class#HashSet#0" expanded="false" />
+            <element signature="method#HashSet#3;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#HashSet#4;class#HashSet#0" expanded="false" />
+            <element signature="method#HashSet#4;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#iterator#0;class#HashSet#0" expanded="false" />
+            <element signature="method#iterator#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#size#0;class#HashSet#0" expanded="false" />
+            <element signature="method#size#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#isEmpty#0;class#HashSet#0" expanded="false" />
+            <element signature="method#isEmpty#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#contains#0;class#HashSet#0" expanded="false" />
+            <element signature="method#contains#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#remove#0;class#HashSet#0" expanded="false" />
+            <element signature="method#remove#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#clear#0;class#HashSet#0" expanded="false" />
+            <element signature="method#clear#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#clone#0;class#HashSet#0" expanded="false" />
+            <element signature="method#clone#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#writeObject#0;class#HashSet#0" expanded="false" />
+            <element signature="method#writeObject#0;class#HashSet#0" expanded="false" />
+            <element signature="docComment;method#readObject#0;class#HashSet#0" expanded="false" />
+            <element signature="method#readObject#0;class#HashSet#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_17.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="564" column="14" selection-start="20610" selection-end="20610" vertical-scroll-proportion="0.49594814">
+          <folding />
         </state>
       </provider>
     </entry>
