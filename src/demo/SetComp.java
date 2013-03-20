@@ -9,7 +9,9 @@ import java.util.TreeSet;
 /**
  * Java program to demonstrate difference between TreeSet, HashSet and LinkedHashSet
  * in Java Collection.
- * @author
+ *
+ * HashSet is fastest, LinkedHashSet can keep order when copy, TreeSet is well-ordered.
+ * option -Xmx1024 maybe needed
  */
 public class SetComp {
 
@@ -43,7 +45,7 @@ public class SetComp {
 
         long endTime = System.nanoTime();
         System.out.println("Total time to insert 10M elements in HashSet in sec : "
-                + (endTime - startTime));
+                + (endTime - startTime)/1e9);
 
 
         // LinkedHashSet performance Test – inserting 10M objects
@@ -54,7 +56,7 @@ public class SetComp {
         }
         endTime = System.nanoTime();
         System.out.println("Total time to insert 10M elements in LinkedHashSet in sec : "
-                + (endTime - startTime));
+                + (endTime - startTime)/1e9);
 
         // TreeSet performance Test – inserting 10M objects
         numbers = new TreeSet<Integer>();
@@ -64,7 +66,7 @@ public class SetComp {
         }
         endTime = System.nanoTime();
         System.out.println("Total time to insert 10M elements in TreeSet in sec : "
-                + (endTime - startTime));
+                + (endTime - startTime)/1e9);
     }
 }
 
