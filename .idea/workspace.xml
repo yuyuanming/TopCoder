@@ -7,10 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6073196c-e864-4b4e-8171-c8b36aa7f2c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo/RandomDemo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/demo/SetComp.java" afterPath="$PROJECT_DIR$/src/demo/SetComp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/demo/sortingDemo.java" afterPath="$PROJECT_DIR$/src/demo/sortingDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.05/2013.05.21 - TopCoder SRM #578/GooseInZooDivOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.05/2013.05.21 - TopCoder SRM #578/GooseInZooDivOne.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.03/2013.03.28 - TopCoder SRM #574/PolygonTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.03/2013.03.28 - TopCoder SRM #574/PolygonTraversal.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.03/2013.03.28 - TopCoder SRM #574/TheNumberGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.03/2013.03.28 - TopCoder SRM #574/TheNumberGame.tctask" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\TeamContest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\curSRM\TeamContest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\curSRM\TeamContest.tctask" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\test\on2013_03\on2013_03_18_TopCoder_SRM__573\TeamContest\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\test\on2013_03\on2013_03_18_TopCoder_SRM__573\TeamContest\TeamContest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\test\on2013_03\on2013_03_18_TopCoder_SRM__573\TeamContest\TeamContest.tctask" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\test\on2013_03\on2013_03_19_TopCoder_SRM__573\TeamContest\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\test\on2013_03\on2013_03_19_TopCoder_SRM__573\TeamContest\TeamContest.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Frank\IdeaProjects\TopCoder\src\test\on2013_03\on2013_03_19_TopCoder_SRM__573\TeamContest\TeamContest.tctask" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHelperReport.txt" afterPath="$PROJECT_DIR$/CHelperReport.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TopCoder.iml" afterPath="$PROJECT_DIR$/TopCoder.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chelper.properties" afterPath="$PROJECT_DIR$/chelper.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TopCoder.iws" />
@@ -19,7 +33,7 @@
     <file path="/fragment.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363751058161" ignored="false" />
     <file path="/TeamContest.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363608272717" ignored="false" />
     <file path="/TaskClass.template" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363606611385" ignored="false" />
-    <file path="/Dummy.txt" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363755923405" ignored="false" />
+    <file path="/Dummy.txt" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369218220852" ignored="false" />
     <file path="/priorityQueueDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363688314070" ignored="false" />
     <file path="/sortingDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363756659117" ignored="false" />
     <file path="/listDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363699125150" ignored="false" />
@@ -28,6 +42,10 @@
     <file path="/RandomDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363752742427" ignored="false" />
     <file path="/SetComp.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363752902205" ignored="false" />
     <file path="/a.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363756067400" ignored="false" />
+    <file path="/TheNumberGame.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1364463531720" ignored="false" />
+    <file path="/ArcadeManao.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1366203129005" ignored="false" />
+    <file path="/GooseInZooDivOne.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369135203426" ignored="false" />
+    <file path="/WolfInZooDivOne.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369218070999" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +65,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -81,7 +100,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -90,7 +108,19 @@
     <favorites_list name="TopCoder" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="WolfInZooDivOne.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/curSRM/WolfInZooDivOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="62" column="18" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.9777257">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -113,11 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Hello.java" />
-        <option value="$PROJECT_DIR$/src/SRM/250.java" />
-        <option value="$PROJECT_DIR$/src/SRM/TeamContest.java" />
-        <option value="$PROJECT_DIR$/TaskClass.template" />
-        <option value="$PROJECT_DIR$/src/test/on2013_03/on2013_03_18_TopCoder_SRM__573/TeamContest/Main.java" />
         <option value="$PROJECT_DIR$/src/curSRM/TeamContest.java" />
         <option value="$PROJECT_DIR$/src/TeamContest.java" />
         <option value="$PROJECT_DIR$/src/demo/listDemo.java" />
@@ -127,6 +152,13 @@
         <option value="$PROJECT_DIR$/src/demo/priorityQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/demo/sortingDemo.java" />
         <option value="$PROJECT_DIR$/src/demo/hashMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/TheNumberGame.java" />
+        <option value="$PROJECT_DIR$/src/curSRM/TheNumberGame.java" />
+        <option value="$PROJECT_DIR$/src/ArcadeManao.java" />
+        <option value="$PROJECT_DIR$/src/curSRM/ArcadeManao.java" />
+        <option value="$PROJECT_DIR$/src/curSRM/GooseInZooDivOne.java" />
+        <option value="$PROJECT_DIR$/src/GooseInZooDivOne.java" />
+        <option value="$PROJECT_DIR$/src/curSRM/WolfInZooDivOne.java" />
       </list>
     </option>
   </component>
@@ -288,7 +320,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -312,6 +344,20 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -358,7 +404,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="curSRM" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopCoder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="archive" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2013.03" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -366,6 +444,7 @@
       </pane>
       <pane id="Scope">
         <subPane subId="Problems" />
+        <subPane subId="Tests" />
         <subPane subId="Production">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -374,7 +453,6 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-        <subPane subId="Tests" />
         <subPane subId="Project Files">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -424,32 +502,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="232" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="232" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="236" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="236" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/Archive/Java/chelper/chelper.jar!/" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="233" />
@@ -464,19 +528,19 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application.RandomDemo">
+  <component name="RunManager" selected="TopCoder Task.WolfInZooDivOne">
     <configuration default="false" name="sortingDemo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="demo.sortingDemo" />
       <option name="VM_PARAMETERS" />
@@ -575,6 +639,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -600,19 +677,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -650,18 +714,43 @@
       <method />
     </configuration>
     <configuration default="false" name="TeamContest" type="TopCoderTask" factoryName="TopCoder Task">
-      <taskConf>src/curSRM/TeamContest.tctask</taskConf>
+      <taskConf />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="6">
+    <configuration default="false" name="ArcadeManao" type="TopCoderTask" factoryName="TopCoder Task">
+      <taskConf />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TheExperiment" type="TopCoderTask" factoryName="TopCoder Task">
+      <taskConf />
+      <method />
+    </configuration>
+    <configuration default="false" name="WolfInZooDivOne" type="TopCoderTask" factoryName="TopCoder Task">
+      <taskConf>src/curSRM/WolfInZooDivOne.tctask</taskConf>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="TopCoder Task.TeamContest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.sortingDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.hashMapDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.setDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.SetComp" />
-      <item index="5" class="java.lang.String" itemvalue="Application.RandomDemo" />
+      <item index="1" class="java.lang.String" itemvalue="TopCoder Task.ArcadeManao" />
+      <item index="2" class="java.lang.String" itemvalue="TopCoder Task.TheExperiment" />
+      <item index="3" class="java.lang.String" itemvalue="Application.sortingDemo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.hashMapDemo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.setDemo" />
+      <item index="6" class="java.lang.String" itemvalue="Application.SetComp" />
+      <item index="7" class="java.lang.String" itemvalue="Application.RandomDemo" />
+      <item index="8" class="java.lang.String" itemvalue="TopCoder Task.WolfInZooDivOne" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -707,33 +796,38 @@
       <created>1363673309117</created>
       <updated>1363673309117</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CheckStyles is integrated, and later small fix on program">
+      <created>1363760641113</created>
+      <updated>1363760641113</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.497552" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.49265605" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3048919" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3048919" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287827" sideWeight="0.49816403" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993174" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32309443" sideWeight="0.500612" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291714" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4012158" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32309443" sideWeight="0.49510404" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24051407" sideWeight="0.32764506" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20379438" sideWeight="0.69510806" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2901024" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20379438" sideWeight="0.6769056" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45392492" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="129" y="140" width="1496" height="836" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.323496" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32764506" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -776,7 +870,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo for use basic data structures and algorithms in Java libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="SRM 578's 500 under writing" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -791,6 +885,8 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Inherent VCS is configured on Win." />
     <MESSAGE value="demo for use basic data structures and algorithms in Java libraries" />
+    <MESSAGE value="CheckStyles is integrated, and later small fix on program" />
+    <MESSAGE value="SRM 578's 500 under writing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -800,128 +896,76 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/TeamContest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="871" selection-end="871" vertical-scroll-proportion="0.5345838" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/curSRM/TeamContest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="28" selection-start="96" selection-end="96" vertical-scroll-proportion="0.089097306" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/on2013_03/on2013_03_18_TopCoder_SRM__573/TeamContest/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="25" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_07/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="558" column="0" selection-start="20284" selection-end="20284" vertical-scroll-proportion="0.22039859" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/setDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="409" selection-end="409" vertical-scroll-proportion="0.33411488">
-          <folding>
-            <element signature="e#302#311#0" expanded="true" />
-            <element signature="e#361#369#0" expanded="true" />
-            <element signature="e#413#421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/RandomDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="83" selection-start="211" selection-end="211" vertical-scroll-proportion="0.22274326">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Dropbox/Archive/Java/google-guava/guava-14.0.1-sources.jar!/com/google/common/cache/AbstractLoadingCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="22" selection-start="1788" selection-end="1788" vertical-scroll-proportion="0.49003518">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="13" selection-start="5260" selection-end="5260" vertical-scroll-proportion="0.33294255">
-          <folding />
-        </state>
+        <state line="123" column="13" selection-start="5260" selection-end="5260" vertical-scroll-proportion="0.33294255" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Dropbox/Archive/Java/google-guava/guava-14.0.1-sources.jar!/com/google/common/cache/AbstractCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="4" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#8523#0" expanded="false" />
-            <element signature="e#2552#2582#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo/priorityQueueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="40" selection-start="302" selection-end="302" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="42" column="4" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/listDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/sortingDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="62" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="33" column="62" selection-start="959" selection-end="959" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Dropbox/Archive/Java/google-guava/guava-14.0.1-sources.jar!/com/google/common/cache/CacheBuilderSpec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="440" column="77" selection-start="16519" selection-end="16519" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#16997#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#3928#3949#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="440" column="77" selection-start="16519" selection-end="16519" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/Dropbox/Archive/Java/google-guava/guava-14.0.1-sources.jar!/com/google/common/cache/ForwardingLoadingCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="3" selection-start="1524" selection-end="1524" vertical-scroll-proportion="0.94188035">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="43" column="3" selection-start="1524" selection-end="1524" vertical-scroll-proportion="0.94188035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/SetComp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="41" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.33333334">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="47" column="41" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/RandomDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="26" selection-start="512" selection-end="512" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/hashMapDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="40" selection-start="264" selection-end="264" vertical-scroll-proportion="0.3897436">
+        <state line="9" column="31" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo/priorityQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="40" selection-start="302" selection-end="302" vertical-scroll-proportion="0.36106196" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="403" column="4" selection-start="14546" selection-end="14546" vertical-scroll-proportion="0.02256532" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="22" selection-start="4079" selection-end="4079" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Dropbox/Archive/Java/chelper/chelper.jar!/net/egork/chelper/tester/NewTopCoderTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="1689" selection-end="1689" vertical-scroll-proportion="0.4429448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/curSRM/WolfInZooDivOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="18" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.9777257">
           <folding>
-            <element signature="e#319#336#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

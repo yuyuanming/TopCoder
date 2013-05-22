@@ -1,2 +1,3 @@
-29 src/curSRM/TeamContest.tctask
+33 src/curSRM/WolfInZooDivOne.tctask
+1
 0
