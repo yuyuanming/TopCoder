@@ -7,8 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6073196c-e864-4b4e-8171-c8b36aa7f2c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.05/2013.05.22 - TopCoder SRM #578/WolfInZooDivOne.tctask" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.05/2013.05.22 - TopCoder SRM #578/WolfInZooDivOne.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.06/2013.06.13 - TopCoder SRM #581/TreeUnion.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.06/2013.06.12 - TopCoder SRM #581/SurveillanceSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.06/2013.06.12 - TopCoder SRM #581/SurveillanceSystem.tctask" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive/2013.06/2013.06.13 - TopCoder SRM #581/TreeUnion.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CHelperReport.txt" afterPath="$PROJECT_DIR$/CHelperReport.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -18,7 +20,7 @@
     <file path="/fragment.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363751058161" ignored="false" />
     <file path="/TeamContest.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363608272717" ignored="false" />
     <file path="/TaskClass.template" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363606611385" ignored="false" />
-    <file path="/Dummy.txt" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369279239998" ignored="false" />
+    <file path="/Dummy.txt" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1371100505370" ignored="false" />
     <file path="/priorityQueueDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363688314070" ignored="false" />
     <file path="/sortingDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363756659117" ignored="false" />
     <file path="/listDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363699125150" ignored="false" />
@@ -26,11 +28,14 @@
     <file path="/setDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363702676771" ignored="false" />
     <file path="/RandomDemo.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363752742427" ignored="false" />
     <file path="/SetComp.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363752902205" ignored="false" />
-    <file path="/a.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1363756067400" ignored="false" />
+    <file path="/a.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369281844355" ignored="false" />
     <file path="/TheNumberGame.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1364463531720" ignored="false" />
     <file path="/ArcadeManao.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1366203129005" ignored="false" />
     <file path="/GooseInZooDivOne.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369135203426" ignored="false" />
     <file path="/WolfInZooDivOne.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369280783464" ignored="false" />
+    <file path="/sample.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1369281753366" ignored="false" />
+    <file path="/SurveillanceSystem.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1371044010266" ignored="false" />
+    <file path="/TreeUnion.java" changelist="6073196c-e864-4b4e-8171-c8b36aa7f2c2" time="1371102903287" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +55,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -84,7 +90,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -116,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/curSRM/TeamContest.java" />
-        <option value="$PROJECT_DIR$/src/TeamContest.java" />
         <option value="$PROJECT_DIR$/src/demo/listDemo.java" />
         <option value="$PROJECT_DIR$/src/demo/setDemo.java" />
         <option value="$PROJECT_DIR$/src/demo/RandomDemo.java" />
@@ -132,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/curSRM/GooseInZooDivOne.java" />
         <option value="$PROJECT_DIR$/src/GooseInZooDivOne.java" />
         <option value="$PROJECT_DIR$/src/curSRM/WolfInZooDivOne.java" />
+        <option value="$PROJECT_DIR$/src/curSRM/SurveillanceSystem.java" />
+        <option value="$PROJECT_DIR$/src/curSRM/TreeUnion.java" />
       </list>
     </option>
   </component>
@@ -319,6 +324,7 @@
     <panes>
       <pane id="Scope">
         <subPane subId="Problems" />
+        <subPane subId="Tests" />
         <subPane subId="Production">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -327,7 +333,6 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-        <subPane subId="Tests" />
         <subPane subId="Project Files">
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
@@ -423,38 +428,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopCoder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="archive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2013.03" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -462,13 +435,13 @@
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Project" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="232" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="232" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="236" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="236" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/Archive/Java/chelper/chelper.jar!/" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="233" />
@@ -483,17 +456,17 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Java" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="TopCoder Task.TeamContest">
     <configuration default="false" name="sortingDemo" type="Application" factoryName="Application" temporary="true">
@@ -594,6 +567,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -619,19 +605,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -690,15 +663,20 @@
       <taskConf />
       <method />
     </configuration>
-    <list size="8">
+    <configuration default="false" name="DeerInZooDivOne" type="TopCoderTask" factoryName="TopCoder Task">
+      <taskConf />
+      <method />
+    </configuration>
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="TopCoder Task.TeamContest" />
       <item index="1" class="java.lang.String" itemvalue="TopCoder Task.ArcadeManao" />
       <item index="2" class="java.lang.String" itemvalue="TopCoder Task.TheExperiment" />
-      <item index="3" class="java.lang.String" itemvalue="Application.sortingDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.hashMapDemo" />
-      <item index="5" class="java.lang.String" itemvalue="Application.setDemo" />
-      <item index="6" class="java.lang.String" itemvalue="Application.SetComp" />
-      <item index="7" class="java.lang.String" itemvalue="Application.RandomDemo" />
+      <item index="3" class="java.lang.String" itemvalue="TopCoder Task.DeerInZooDivOne" />
+      <item index="4" class="java.lang.String" itemvalue="Application.sortingDemo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.hashMapDemo" />
+      <item index="6" class="java.lang.String" itemvalue="Application.setDemo" />
+      <item index="7" class="java.lang.String" itemvalue="Application.SetComp" />
+      <item index="8" class="java.lang.String" itemvalue="Application.RandomDemo" />
     </list>
     <recent_temporary>
       <list size="5">
@@ -752,7 +730,11 @@
       <created>1369218243798</created>
       <updated>1369218243798</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SRM 578's 500 finished">
+      <created>1369280884303</created>
+      <updated>1369280884303</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -774,8 +756,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24051407" sideWeight="0.32764506" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20379438" sideWeight="0.5460751" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45392492" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20379438" sideWeight="0.7281001" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27189988" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="129" y="140" width="1496" height="836" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -822,7 +804,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="SRM 578's 500 under writing" />
+    <option name="LAST_COMMIT_MESSAGE" value="SRM 578's 500 finished" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -839,6 +821,7 @@
     <MESSAGE value="demo for use basic data structures and algorithms in Java libraries" />
     <MESSAGE value="CheckStyles is integrated, and later small fix on program" />
     <MESSAGE value="SRM 578's 500 under writing" />
+    <MESSAGE value="SRM 578's 500 finished" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -848,16 +831,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_17/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="13" selection-start="5260" selection-end="5260" vertical-scroll-proportion="0.33294255" />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/Dropbox/Archive/Java/google-guava/guava-14.0.1-sources.jar!/com/google/common/cache/AbstractCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="4" selection-start="1663" selection-end="1663" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/demo/listDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="27" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" />
@@ -911,6 +884,21 @@
     <entry file="jar://$USER_HOME$/Dropbox/Archive/Java/chelper/chelper.jar!/net/egork/chelper/tester/NewTopCoderTester.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="0" selection-start="1689" selection-end="1689" vertical-scroll-proportion="0.4429448" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chelper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive/2013.05/2013.05.22 - TopCoder SRM #578/WolfInZooDivOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="4" selection-start="1376" selection-end="1376" vertical-scroll-proportion="0.62222224" />
       </provider>
     </entry>
   </component>
