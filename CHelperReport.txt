@@ -1,2 +1,2 @@
-27 src/curSRM/TreeUnion.tctask
+37 src/curSRM/YetAnotherBoardGame.tctask
 0
